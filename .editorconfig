@@ -1,0 +1,7 @@
+root = true
+
+# 한글 주석이 깨지지 않도록 Visual Studio도 UTF-8로 저장
+[*.cs]
+charset = utf-8
+indent_style = space
+indent_size = 4
