@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: TapeTranscript
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uD14C\uC774\uD504 \uB0B4\uC6A9 (\uBC1B\uC544 \uC801\uC74C)"
+  body: "(\uC9C0\uC9C0\uC9C1\u2026 \uD14C\uC774\uD504\uAC00 \uB3CC\uC544\uAC00\uB294
+    \uC18C\uB9AC)\n\n\uC544, \uC544. \uB179\uC74C\uB418\uACE0 \uC788\uB098?\n\n\u2026\uB108
+    \uAE30\uB2E4\uB9AC\uB2E4\uAC00, \uADF8\uB0E5 \uB179\uC74C\uD574 \uB450\uAE30\uB85C
+    \uD588\uC5B4.\n\n\uB098 \uB2E4\uC74C \uC8FC\uC5D0 \uC804\uD559 \uAC00. \uC9C1\uC811
+    \uB9D0\uD558\uACE0 \uC2F6\uC5C8\uB294\uB370.\n\n\uB178\uB798 \uD558\uB098 \uB9CC\uB4E4\uC5C8\uC5B4.
+    \uD53C\uC544\uB178\uB85C \uCE5C \uAC70\uC57C. \uC6C3\uC9C0 \uB9C8.\n\n\uB098\uC911\uC5D0\uB77C\uB3C4
+    \uC774\uAC70 \uB4E4\uC73C\uBA74\u2026 \uC6B0\uB9AC\uAC00 \uCC98\uC74C \uB9CC\uB09C
+    \uACF3\uC774\uB791, \uB0B4\uAC00 \uC81C\uC77C \uC88B\uC544\uD558\uB358 \uACF3\uC5D0
+    \uD2C0\uC5B4 \uC918.\n\n\uADF8\uB7FC \uB098\uB3C4 \uC5B4\uB514\uC120\uAC00 \uB4E3\uACE0
+    \uC788\uC744\uAC8C.\n\n(\uD55C\uCC38 \uB3D9\uC548 \uC544\uBB34 \uC18C\uB9AC\uB3C4
+    \uC5C6\uB2E4)\n\n\u2026\uC774\uC0C1\uD558\uB2E4. \uBB38\uC774 \uC548 \uC5F4\uB824.\n\n\uBC16\uC5D0\u2026
+    \uB204\uAD6C \uC788\uC5B4?\n\n(\uD14C\uC774\uD504\uAC00 \uB05D\uB0AC\uB2E4)"
+  handwritten: 0
+  paperColor: {r: 0.95, g: 0.93, b: 0.86, a: 1}

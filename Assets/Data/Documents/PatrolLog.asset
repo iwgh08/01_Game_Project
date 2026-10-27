@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: PatrolLog
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uC57C\uAC04 \uC21C\uCC30 \uC77C\uC9C0"
+  body: "10/12   \uC774\uC0C1 \uC5C6\uC74C\n\n10/13   2\uCE35 \uCC3D\uBB38 \uC7A0\uAE08
+    \uD655\uC778\n\n10/15   \uBC24\uB9C8\uB2E4 \uBC29\uC1A1\uC2E4 \uCABD\uC5D0\uC11C
+    \uD53C\uC544\uB178 \uC18C\uB9AC\uAC00 \uB09C\uB2E4\uB294\n            \uC8FC\uBBFC
+    \uBBFC\uC6D0. \uD655\uC778 \uACB0\uACFC \uC774\uC0C1 \uC5C6\uC74C.\n\n10/16  
+    \uCCA0\uAC70 \uC5C5\uCCB4 \uC0AC\uC804 \uB2F5\uC0AC\n\n10/17   "
+  handwritten: 0
+  paperColor: {r: 0.92, g: 0.9, b: 0.84, a: 1}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: ClassPhoto
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uC0AC\uC9C4 \uB4B7\uBA74"
+  body: "2006. 3. 2.\n\uAC1C\uD559 \uCCAB\uB0A0!\n2\uD559\uB144 3\uBC18 \uB2E4 \uAC19\uC774
+    \u2665\n\n\n<size=70%>(\uC55E\uBA74: \uC6B4\uB3D9\uC7A5 \uC55E\uC5D0\uC11C \uCC0D\uC740
+    \uBC18 \uB2E8\uCCB4 \uC0AC\uC9C4.\n\uC2A4\uBB34 \uBA85\uC774 \uC5B4\uC0C9\uD558\uAC8C
+    \uC6C3\uACE0 \uC788\uB2E4.)</size>"
+  handwritten: 1
+  paperColor: {r: 0.86, g: 0.82, b: 0.71, a: 1}

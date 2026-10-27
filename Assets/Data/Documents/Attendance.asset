@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: Attendance
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "2\uD559\uB144 3\uBC18 \uCD9C\uC11D\uBD80"
+  body: "<size=80%><color=#6B5B4B>2006\uD559\uB144\uB3C4 \xB7 \uB2F4\uC784 \uBC15\uC601\uC219</color></size>\n\n<mspace=0.55em>
+    1</mspace>   \uAC15\uBBFC\uC9C0<pos=50%><mspace=0.55em>11</mspace>   \uC624\uC2B9\uD604\n<mspace=0.55em>
+    2</mspace>   \uAE40\uB3C4\uC724<pos=50%><mspace=0.55em>12</mspace>   \uC724\uCC44\uC6D0\n<mspace=0.55em>
+    3</mspace>   \uAE40\uD558\uB298<pos=50%><mspace=0.55em>13</mspace>   \uC774\uB3C4\uD604\n<mspace=0.55em>
+    4</mspace>   \uB0A8\uAD81\uD604<pos=50%><mspace=0.55em>14</mspace>   \uC774\uC218\uBE48\n<mspace=0.55em>
+    5</mspace>   \uB958\uC9C0\uC544<pos=50%><mspace=0.55em>15</mspace>   \uC784\uD558\uC900\n<mspace=0.55em>
+    6</mspace>   \uBB38\uD0DC\uC2DD<pos=50%><mspace=0.55em>16</mspace>   \uC7A5\uC608\uB9B0\n<mspace=0.55em>
+    7</mspace>   \uBC15\uC11C\uC5F0<pos=50%><mspace=0.55em>17</mspace>   \uD55C\uC11C\uC9C4 
+    <size=75%><color=#8B1A1A>10/18~ \uACB0\uC11D</color></size>\n<mspace=0.55em>
+    8</mspace>   \uBC30\uC900\uD638<pos=50%><mspace=0.55em>18</mspace>   \uD5C8\uBBFC\uD601\n<mspace=0.55em>
+    9</mspace>   \uC1A1\uC720\uB9AC<pos=50%><mspace=0.55em>19</mspace>   \uD64D\uB2E4\uC740\n<mspace=0.55em>10</mspace>  
+    \uC548\uC7AC\uBBFC<pos=50%><mspace=0.55em>20</mspace>   \uD669\uC9C0\uD6C8\n\n<size=80%><color=#6B5B4B>\u203B
+    \uC790\uB9AC\uB294 \uCE60\uD310 \uC606 \uBC30\uCE58\uD45C\uB97C \uB530\uB978\uB2E4.</color></size>"
+  handwritten: 0
+  paperColor: {r: 0.92, g: 0.9, b: 0.84, a: 1}

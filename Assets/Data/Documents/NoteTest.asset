@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: NoteTest
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uC2DC\uD5D8\uC9C0"
+  body: "2\uD559\uAE30 \uC911\uAC04\uACE0\uC0AC \xB7 \uC218\uD559\n\n\uC774\uB984:
+    \uAE40\uD558\uB298\n\n\n<size=220%><color=#B22222>32</color></size>\n\n<color=#B22222>\uBD80\uBAA8\uB2D8
+    \uD655\uC778 \uBC1B\uC544 \uC62C \uAC83!</color>"
+  handwritten: 0
+  paperColor: {r: 0.92, g: 0.9, b: 0.84, a: 1}

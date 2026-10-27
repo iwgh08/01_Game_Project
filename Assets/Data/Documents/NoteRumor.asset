@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: NoteRumor
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uAD6C\uACA8\uC9C4 \uCABD\uC9C0"
+  body: "\uC57C \uC11C\uC9C4\uC774 \uC804\uD559 \uAC04\uB300\n\uB4E4\uC5C8\uC5B4?\n\n\u2014
+    \uD5D0 \uC9C4\uC9DC? \uC5B8\uC81C?\n\n\u2014 \uBAB0\uB77C \uB2E4\uC74C \uC8FC\uB77C\uB358\uB370\n\uAC54
+    \uC544\uBB34\uD55C\uD14C\uB3C4 \uB9D0 \uC548 \uD588\uB300"
+  handwritten: 1
+  paperColor: {r: 0.95, g: 0.93, b: 0.86, a: 1}

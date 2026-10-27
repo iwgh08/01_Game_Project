@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: NoteAudition
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uACF5\uCC45 \uB099\uC11C"
+  body: "\uBC29\uC1A1\uBD80 \uC624\uB514\uC158 \uB5A8\uC5B4\uC9D0 \u3160\u3160\n\n\uC11C\uC9C4\uC774\uB294
+    \uBD99\uC5C8\uB2E4.\n\uBAA9\uC18C\uB9AC\uAC00 \uC608\uBED0\uC11C \uADF8\uB807\uB300.\n\n\u2026\uBD80\uB7FD\uB2E4."
+  handwritten: 1
+  paperColor: {r: 0.95, g: 0.93, b: 0.86, a: 1}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: NumberPoster
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uC22B\uC790\uB85C \uC801\uB294 \uC545\uBCF4 (\uC22B\uC790\uBCF4)"
+  body: "\uC74C \uC774\uB984 \uB300\uC2E0 \uC22B\uC790\uB85C \uC801\uB294 \uAC04\uB2E8\uD55C
+    \uC545\uBCF4\uC785\uB2C8\uB2E4.\n\n<mspace=0.62em>   1   \u2192   \uB3C4\n  
+    2   \u2192   \uB808\n   3   \u2192   \uBBF8\n   4   \u2192   \uD30C\n   5   \u2192  
+    \uC194\n   6   \u2192   \uB77C\n   7   \u2192   \uC2DC</mspace>\n\n<size=85%>\xB7
+    \u2016 \uB294 \uACE1\uC758 \uB05D\uC744 \uB73B\uD569\uB2C8\uB2E4.\n\xB7 \uC22B\uC790
+    \uC704\uC5D0 \uC810\uC774 \uCC0D\uD600 \uC788\uC73C\uBA74 \uD55C \uC625\uD0C0\uBE0C
+    \uB192\uC740 \uC74C\uC785\uB2C8\uB2E4.</size>"
+  handwritten: 0
+  paperColor: {r: 0.92, g: 0.9, b: 0.84, a: 1}

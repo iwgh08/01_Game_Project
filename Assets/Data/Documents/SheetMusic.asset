@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: SheetMusic
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "\uCC22\uC5B4\uC9C4 \uC545\uBCF4"
+  body: "\uC11C\uC9C4\uC774\uC758 \uB178\uB798  \u2014 \uC55E\uBD80\uBD84 \u2014\n\n\n<size=170%>3    
+    5     6</size>\n\n\n\n<size=75%>(\uB4B7\uBD80\uBD84\uC740 \uC74C\uC545\uC2E4
+    \uCE60\uD310\uC5D0!)</size>"
+  handwritten: 1
+  paperColor: {r: 0.95, g: 0.93, b: 0.86, a: 1}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5fe1f462d92e5b4d9d98da893e24d26, type: 3}
+  m_Name: SeatChart
+  m_EditorClassIdentifier: Assembly-CSharp::DocumentData
+  title: "2\uD559\uB144 3\uBC18 \uC790\uB9AC \uBC30\uCE58\uD45C"
+  body: "<align=center>[        \uCE60        \uD310        ]</align>\n\n<align=center><mspace=0.7em><line-height=140%>
+    5    12     1     9\n14     3    18     7\n10    20     6    15\n 2    11   
+    17     4\n16     8    19    13</line-height></mspace></align>\n\n<align=center><size=80%>\u2190
+    \uBCF5\uB3C4 \uCABD                         \uCC3D\uBB38 \uCABD \u2192</size></align>\n\n<align=center><size=75%><color=#6B5B4B>(\uAD50\uC2E4
+    \uB4A4 \xB7 \uC0AC\uBB3C\uD568)</color></size></align>"
+  handwritten: 0
+  paperColor: {r: 0.92, g: 0.9, b: 0.84, a: 1}
